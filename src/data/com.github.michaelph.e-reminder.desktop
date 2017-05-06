@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=E-Reminder
+GenericName=E-Reminder
+Comment=Never losse and important taks again
+Categories=GTK;Utility;
+Exec=com.github.michaelph.e-reminder
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=e-reminder
+Keywords=reminder;alarm;notifier;
